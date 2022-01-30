@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbluis4. I'm a mechannical Engineer currently transitioning to web development. 
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning ReactJs
 
 - 📫 You can reach me by email: mbluis@gmail.com
 
